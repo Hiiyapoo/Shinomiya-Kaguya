@@ -29,7 +29,7 @@ ___
 |       ✅       | Make a meme from photo           |
 |       ✅       | Quotes maker result pict         |
 |       ✅       | Nulis Bot                        |
- :-----------:   AND OTHER  :---------------------
+-------------------  AND OTHER  ---------------------
 
 | 18+ |Yes|
 | ------------- | ------------- |
