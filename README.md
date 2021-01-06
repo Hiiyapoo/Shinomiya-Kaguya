@@ -29,11 +29,12 @@ ___
 |       ✅       | Make a meme from photo           |
 |       ✅       | Quotes maker result pict         |
 |       ✅       | Nulis Bot                        |
--------------------  AND OTHER  ---------------------
+|    AND OTHER   | AND OTHER                         |
 
 | 18+ |Yes|
 | ------------- | ------------- |
 | Nekopoi |✅|
+|    AND OTHER   | AND OTHER    |
 
 | Agama |Yes|
 | ------------- | ------------- |
@@ -43,26 +44,26 @@ ___
 | Tafsir Alquran|✅|
 | Alquran Audio/Voice|✅|
 | Alkitabs|✅|
-| :-----------: |  AND OTHER | :---------------------|
+|    AND OTHER   | AND OTHER    |
 
 | Downloader |Yes|
 | ------------- | ------------- |
 | Youtube Music |✅|
 | Youtube Video |✅|
 | Facebook |✅|
-| :-----------: |  AND OTHER | :---------------------|
+|    AND OTHER   | AND OTHER    |
 
 | Fun Group! |Yes|
 | ------------- | ------------- |
 | Simi-simi BOT|✅|
 | Anti kata kasar|✅|
-| :-----------: |  AND OTHER | :---------------------|
+|    AND OTHER   | AND OTHER    |
 
 | Primbon |Yes|
 | ------------- | ------------- |
 | Arti nama |✅|
 | Cek Jodoh |✅|
-| :-----------: |  AND OTHER | :---------------------|
+|    AND OTHER   | AND OTHER    |
 
 | Searchs |Yes|
 | ------------- | ------------- |
@@ -77,7 +78,7 @@ ___
 | Screen Crot!|✅|
 | Play music|✅|
 | whats anime?|✅|
-| :-----------: |  AND OTHER | :---------------------|
+|    AND OTHER   | AND OTHER    |
 
 | Random text |Yes|
 | ------------- | ------------- |
@@ -88,14 +89,14 @@ ___
 | Cerita Sex|✅|
 | Cerita Pendek|✅|
 | Puisi|✅|
-| :-----------: |  AND OTHER | :---------------------|
+|    AND OTHER   | AND OTHER    |
 
 | Random image |Yes|
 | ------------- | ------------- |
 | Anime |✅|
 | Kpop |✅|
 | Memes |✅|
-| :-----------: |  AND OTHER | :---------------------|
+|    AND OTHER   | AND OTHER    |
 
 | Others |Yes|
 | ------------- | ------------- |
@@ -105,7 +106,7 @@ ___
 | Covid-19 Indo|✅|
 | Shortlink|✅|
 | Bap4k F0nt|✅|
-| :-----------: |  AND OTHER | :---------------------|
+|    AND OTHER   | AND OTHER    |
 
 | Groups |Yes|
 | ------------- | ------------- |
@@ -121,7 +122,7 @@ ___
 | Delete bot msg|✅|
 | Tagall/mentions all|✅|
 | Welcome ON/OFF|✅|
-| :-----------: |  AND OTHER | :---------------------|
+|    AND OTHER   | AND OTHER    |
 
 | Owner bot |Yes|
 | ------------- | ------------- |
@@ -129,7 +130,7 @@ ___
 | Leave all group|✅|
 | Delete all msgs|✅|
 | Banned user|✅|
-| :-----------: |  AND OTHER | :---------------------|
+|    AND OTHER   | AND OTHER    |
 
 ## To-Do
  - Add Media Downloader
