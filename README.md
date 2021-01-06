@@ -14,3 +14,135 @@ ___
    <a href="https://www.instagram.com/impostor9531/"><img height="30" src="https://image.freepik.com/free-vector/instagram-icon_1057-2227.jpg"></a>&nbsp;&nbsp;
    <a href="https://wa.me/0816243737"><img height="30" src="https://w7.pngwing.com/pngs/672/164/png-transparent-whatsapp-icon-whatsapp-logo-computer-icons-zubees-halal-foods-whatsapp-text-circle-unified-payments-interface.png"></a>
 </P>
+
+---
+
+## Features
+
+| 18+ |Yes|
+| ------------- | ------------- |
+| Nekopoi |✅|
+
+| Creator |Yes|
+| ------------- | ------------- |
+| Respond img to sticker|✅|
+| Respond img to sticker no bg|✅|
+| Respond url to sticker|✅|
+| Respond gif to sticker|✅|
+| Respond giphy url to sticker|✅|
+| Make a meme from photo|✅|
+| Quotes maker result pict|✅|
+| Nulis Bot|✅|
+| AND OTHER |
+
+| Agama |Yes|
+| ------------- | ------------- |
+| List Surah|✅|
+| Info Surah|✅|
+| Surah|✅|
+| Tafsir Alquran|✅|
+| Alquran Audio/Voice|✅|
+| Alkitabs|✅|
+| AND OTHER |
+
+| Downloader |Yes|
+| ------------- | ------------- |
+| Youtube Music |✅|
+| Youtube Video |✅|
+| Facebook |✅|
+| AND OTHER |
+
+| Fun Group! |Yes|
+| ------------- | ------------- |
+| Simi-simi BOT|✅|
+| Anti kata kasar|✅|
+| AND OTHER |
+
+| Primbon |Yes|
+| ------------- | ------------- |
+| Arti nama |✅|
+| Cek Jodoh |✅|
+| AND OTHER |
+
+| Searchs |Yes|
+| ------------- | ------------- |
+| Images |✅|
+| Subreddit |✅|
+| Resep makanan |✅|
+| Stalk IG |✅|
+| Wikipedia |✅|
+| Cuaca |✅|
+| Chord musik |✅|
+| Lirik musik |✅|
+| Screen Crot!|✅|
+| Play music|✅|
+| whats anime?|✅|
+| AND OTHER |
+
+| Random text |Yes|
+| ------------- | ------------- |
+| Pantun pakboy|✅|
+| Fakta Menarik|✅|
+| Kata Bijak|✅|
+| Quotes|✅|
+| Cerita Sex|✅|
+| Cerita Pendek|✅|
+| Puisi|✅|
+| AND OTHER |
+
+| Random image |Yes|
+| ------------- | ------------- |
+| Anime |✅|
+| Kpop |✅|
+| Memes |✅|
+| AND OTHER |
+
+| Others |Yes|
+| ------------- | ------------- |
+| Teks to Sound/Voice|✅|
+| Translate teks|✅|
+| Get covid info from map|✅|
+| Covid-19 Indo|✅|
+| Shortlink|✅|
+| Bap4k F0nt|✅|
+| AND OTHER |
+
+| Groups |Yes|
+| ------------- | ------------- |
+| Owner||
+| Kick all members|✅|
+| Admin||
+| Add user|✅|
+| Kick user|✅|
+| Promote User|✅|
+| Demote User|✅|
+| Mute Group|✅|
+| Change Group icon|✅|
+| Delete bot msg|✅|
+| Tagall/mentions all|✅|
+| Welcome ON/OFF|✅|
+| AND OTHER |
+
+| Owner bot |Yes|
+| ------------- | ------------- |
+| Broadcast|✅|
+| Leave all group|✅|
+| Delete all msgs|✅|
+| Banned user|✅|
+| AND OTHER |
+
+## To-Do
+ - Add Media Downloader
+ - Add More Feature
+ - More refactoring
+ 
+---
+
+## Troubleshooting
+Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
+
+Fix Stuck on linux, install google chrome stable: 
+```bash
+> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+> sudo apt install ./google-chrome-stable_current_amd64.deb
+```
