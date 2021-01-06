@@ -19,19 +19,6 @@ ___
 
 ## Features
 
-## Features
-
-| Sticker Creator |                Feature           |
-| :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
-|       ✅       | Reply A Photo                    |
-|       ✅       | Image Url                        |
-|       ✅       | Send Video or GIF with Caption   |
-
-| 18+ |Yes|
-| ------------- | ------------- |
-| Nekopoi |✅|
-
 | Creator |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Respond img to sticker           |
@@ -42,8 +29,11 @@ ___
 |       ✅       | Make a meme from photo           |
 |       ✅       | Quotes maker result pict         |
 |       ✅       | Nulis Bot                        |
-| :-----------: |  AND OTHER | :---------------------|
+ :-----------:   AND OTHER  :---------------------
 
+| 18+ |Yes|
+| ------------- | ------------- |
+| Nekopoi |✅|
 
 | Agama |Yes|
 | ------------- | ------------- |
