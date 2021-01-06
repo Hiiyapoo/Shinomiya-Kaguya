@@ -6,7 +6,7 @@ const HandleMsg = require('./HandleMsg')
 
 const start = (kaguya = new Client()) => {
     console.log(color(figlet.textSync('----------------', { horizontalLayout: 'default' })))
-    console.log(color(figlet.textSync('KAGUYA BOT', { font: 'Fire Font-k', horizontalLayout: 'default' })))
+    console.log(color(figlet.textSync('HIZKIA', { font: 'Fire Font-k', horizontalLayout: 'default' })))
     console.log(color(figlet.textSync('----------------', { horizontalLayout: 'default' })))
     console.log(color('[DEV]'), color('Tanaka9531', 'yellow'))
     console.log(color('[~>>]'), color('BOT Started!', 'green'))
