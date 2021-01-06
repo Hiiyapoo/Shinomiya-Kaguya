@@ -19,21 +19,31 @@ ___
 
 ## Features
 
+## Features
+
+| Sticker Creator |                Feature           |
+| :-----------: | :--------------------------------: |
+|       ✅       | Send Photo with Caption          |
+|       ✅       | Reply A Photo                    |
+|       ✅       | Image Url                        |
+|       ✅       | Send Video or GIF with Caption   |
+
 | 18+ |Yes|
 | ------------- | ------------- |
 | Nekopoi |✅|
 
-| Creator |Yes|
-| ------------- | ------------- |
-| Respond img to sticker|✅|
-| Respond img to sticker no bg|✅|
-| Respond url to sticker|✅|
-| Respond gif to sticker|✅|
-| Respond giphy url to sticker|✅|
-| Make a meme from photo|✅|
-| Quotes maker result pict|✅|
-| Nulis Bot|✅|
-| AND OTHER |
+| Creator |                Feature           |
+| :-----------: | :--------------------------------: |
+|       ✅       | Respond img to sticker           |
+|       ✅       | Respond img to sticker no bg     |
+|       ✅       | Respond url to sticker           |
+|       ✅       | Respond gif to sticker           |
+|       ✅       | Respond giphy url to sticker     |
+|       ✅       | Make a meme from photo           |
+|       ✅       | Quotes maker result pict         |
+|       ✅       | Nulis Bot                        |
+| :-----------: |  AND OTHER | :---------------------|
+
 
 | Agama |Yes|
 | ------------- | ------------- |
